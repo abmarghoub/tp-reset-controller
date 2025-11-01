@@ -1,3 +1,4 @@
+Structure finale du projet
 <img width="826" height="807" alt="image" src="https://github.com/user-attachments/assets/6f1e9b4c-ae62-4bcb-bbfd-8c60b0bc9b94" />
 <img width="929" height="530" alt="91" src="https://github.com/user-attachments/assets/25d34125-3b21-4ced-af9e-c8ed25ee6f1a" />
 <img width="1178" height="785" alt="92" src="https://github.com/user-attachments/assets/846c70d1-1b94-4e51-a9f0-ba716007f31d" />
